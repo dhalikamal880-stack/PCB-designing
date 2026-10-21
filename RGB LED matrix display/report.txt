@@ -1,0 +1,17 @@
+Info: Processing symbol 'C1:Capacitor_THT:C_Radial_D10.0mm_H12.5mm_P5.00mm'.
+Info: Processing symbol 'J2:TerminalBlock:TerminalBlock_Xinya_XY308-2.54-3P_1x03_P2.54mm_Horizontal'.
+Info: Processing symbol 'J4:TerminalBlock:TerminalBlock_Xinya_XY308-2.54-2P_1x02_P2.54mm_Horizontal'.
+Info: Processing symbol 'R1:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical'.
+Info: Processing symbol 'U1:SN74AHCT125N_Library:DIP794W45P254L1930H508Q14'.
+Info: Processing symbol 'U3:ESP32-C3_SUPERMINI_TH_Library:MODULE_ESP32-C3_SUPERMINI_TH'.
+Changed C1 value from C_US to 1000uF.
+Changed J2 footprint from 'TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_Type011_RT05503HBLC_1x03_P5.00mm_Horizontal' to 'TerminalBlock:TerminalBlock_Xinya_XY308-2.54-3P_1x03_P2.54mm_Horizontal'.
+Updated J2 fields.
+Updated J2 unit metadata.
+Changed J4 footprint from 'TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_Type011_RT05502HBLC_1x02_P5.00mm_Horizontal' to 'TerminalBlock:TerminalBlock_Xinya_XY308-2.54-2P_1x02_P2.54mm_Horizontal'.
+Updated J4 fields.
+Updated J4 unit metadata.
+Changed R1 value from R to 330ohm.
+
+
+Info: Total warnings: 0, errors: 0.
