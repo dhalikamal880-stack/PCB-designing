@@ -1,0 +1,166 @@
+Info: Processing symbol 'C1:Capacitor_THT:CP_Radial_D6.3mm_P2.50mm'.
+Info: Processing symbol 'J2:Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'C2:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'D1:Diode_SMD:D_SMA'.
+Info: Processing symbol 'C3:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C4:Capacitor_THT:CP_Radial_D6.3mm_P2.50mm'.
+Info: Processing symbol 'J1:Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'J3:Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'J4:Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'L1:Inductor_SMD:L_12x12mm_H8mm'.
+Info: Processing symbol 'R1:Resistor_SMD:R_1206_3216Metric'.
+Info: Processing symbol 'RV1:Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical'.
+Info: Processing symbol 'VR1:XL6009:DPAK170P1435X465-6N'.
+Updated C1 sheetfile to 'dc dc buck boost converter.kicad_sch'.
+Updated C1 footprint filters to 'C_*'.
+Add net GND.
+Connected C1 pin 2 to GND.
+Add net Net-(J1-Pin_1).
+Connected C1 pin 1 to Net-(J1-Pin_1).
+Updated C1 unit metadata.
+Added C2 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C2.
+Changed C2 value from C_0805_2012Metric to 1uF.
+Updated C2 symbol association from  to /81c6e866-7c42-4f53-972a-2b46a053b46f.
+Updated C2 fields.
+Updated C2 sheetname to '/'.
+Updated C2 sheetfile to 'dc dc buck boost converter.kicad_sch'.
+Updated C2 footprint filters to 'C_*'.
+Connected C2 pin 2 to GND.
+Connected C2 pin 1 to Net-(J1-Pin_1).
+Updated C2 unit metadata.
+Added C3 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C3.
+Changed C3 value from C_0805_2012Metric to 1uF.
+Updated C3 symbol association from  to /ab892192-f4d7-4866-bf67-568e12e6c594.
+Updated C3 fields.
+Updated C3 sheetname to '/'.
+Updated C3 sheetfile to 'dc dc buck boost converter.kicad_sch'.
+Updated C3 footprint filters to 'C_*'.
+Add net Net-(D1-K).
+Connected C3 pin 1 to Net-(D1-K).
+Connected C3 pin 2 to GND.
+Updated C3 unit metadata.
+Added C4 (footprint 'Capacitor_THT:CP_Radial_D6.3mm_P2.50mm').
+Changed REF** reference designator to C4.
+Changed C4 value from CP_Radial_D6.3mm_P2.50mm to 220UF/50V.
+Updated C4 symbol association from  to /5cdb44fc-fd45-480b-9d5a-b578a4c34e85.
+Updated C4 fields.
+Updated C4 sheetname to '/'.
+Updated C4 sheetfile to 'dc dc buck boost converter.kicad_sch'.
+Updated C4 footprint filters to 'C_*'.
+Connected C4 pin 2 to GND.
+Connected C4 pin 1 to Net-(D1-K).
+Updated C4 unit metadata.
+Added D1 (footprint 'Diode_SMD:D_SMA').
+Changed REF** reference designator to D1.
+Changed D1 value from D_SMA to SS34.
+Updated D1 symbol association from  to /64112f2c-a98b-4f5b-b4eb-a496f839091e.
+Updated D1 fields.
+Updated D1 sheetname to '/'.
+Updated D1 sheetfile to 'dc dc buck boost converter.kicad_sch'.
+Updated D1 footprint filters to 'D*SMA*'.
+Connected D1 pin 1 to Net-(D1-K).
+Add net Net-(D1-A).
+Connected D1 pin 2 to Net-(D1-A).
+Updated D1 unit metadata.
+Added J1 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical').
+Changed REF** reference designator to J1.
+Changed J1 value from PinHeader_1x01_P2.54mm_Vertical to Conn_01x01_Pin.
+Updated J1 symbol association from  to /340614b9-192a-4818-8537-f51b1e5c04f0.
+Updated J1 fields.
+Updated J1 sheetname to '/'.
+Updated J1 sheetfile to 'dc dc buck boost converter.kicad_sch'.
+Updated J1 footprint filters to 'Connector*:*_1x??_*'.
+Connected J1 pin 1 to Net-(J1-Pin_1).
+Updated J1 unit metadata.
+Added J2 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical').
+Changed REF** reference designator to J2.
+Changed J2 value from PinHeader_1x01_P2.54mm_Vertical to Conn_01x01_Pin.
+Updated J2 symbol association from  to /8d2167a3-56d5-429d-af08-943cb75eea26.
+Updated J2 fields.
+Updated J2 sheetname to '/'.
+Updated J2 sheetfile to 'dc dc buck boost converter.kicad_sch'.
+Updated J2 footprint filters to 'Connector*:*_1x??_*'.
+Add net unconnected-(J2-Pin_1-Pad1).
+Connected J2 pin 1 to unconnected-(J2-Pin_1-Pad1).
+Updated J2 unit metadata.
+Added C1 (footprint 'Capacitor_THT:CP_Radial_D6.3mm_P2.50mm').
+Added J3 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical').
+Changed REF** reference designator to J3.
+Changed J3 value from PinHeader_1x01_P2.54mm_Vertical to Conn_01x01_Pin.
+Updated J3 symbol association from  to /5ecc4a44-4c58-49a7-8905-182acbb91b73.
+Updated J3 fields.
+Updated J3 sheetname to '/'.
+Updated J3 sheetfile to 'dc dc buck boost converter.kicad_sch'.
+Updated J3 footprint filters to 'Connector*:*_1x??_*'.
+Connected J3 pin 1 to Net-(D1-K).
+Updated J3 unit metadata.
+Changed REF** reference designator to C1.
+Added J4 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical').
+Changed REF** reference designator to J4.
+Changed J4 value from PinHeader_1x01_P2.54mm_Vertical to Conn_01x01_Pin.
+Updated J4 symbol association from  to /3ef45683-888f-4de8-acda-217566bd7bd5.
+Updated J4 fields.
+Updated J4 sheetname to '/'.
+Updated J4 sheetfile to 'dc dc buck boost converter.kicad_sch'.
+Updated J4 footprint filters to 'Connector*:*_1x??_*'.
+Connected J4 pin 1 to GND.
+Updated J4 unit metadata.
+Changed C1 value from CP_Radial_D6.3mm_P2.50mm to 47uF/50V.
+Added L1 (footprint 'Inductor_SMD:L_12x12mm_H8mm').
+Changed REF** reference designator to L1.
+Changed L1 value from L_12x12mm_H8mm to 33uH.
+Updated L1 symbol association from  to /b5b321f4-53dd-4900-8d5a-552b05fb5986.
+Updated L1 fields.
+Updated L1 sheetname to '/'.
+Updated L1 sheetfile to 'dc dc buck boost converter.kicad_sch'.
+Updated L1 footprint filters to 'Choke_* *Coil* Inductor_* L_*'.
+Connected L1 pin 1 to Net-(J1-Pin_1).
+Connected L1 pin 2 to Net-(D1-A).
+Updated L1 unit metadata.
+Updated C1 symbol association from  to /7077bbc1-e768-4e8a-a77e-f771a718ba12.
+Added R1 (footprint 'Resistor_SMD:R_1206_3216Metric').
+Changed REF** reference designator to R1.
+Changed R1 value from R_1206_3216Metric to 1K.
+Updated R1 symbol association from  to /cf1d85df-51ad-4357-ac5c-02adb45aecb1.
+Updated R1 fields.
+Updated R1 sheetname to '/'.
+Updated R1 sheetfile to 'dc dc buck boost converter.kicad_sch'.
+Updated R1 footprint filters to 'R_*'.
+Add net Net-(VR1-FB).
+Connected R1 pin 1 to Net-(VR1-FB).
+Connected R1 pin 2 to GND.
+Updated R1 unit metadata.
+Updated C1 fields.
+Added RV1 (footprint 'Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical').
+Changed REF** reference designator to RV1.
+Changed RV1 value from Potentiometer_Bourns_3296W_Vertical to 50K.
+Updated RV1 symbol association from  to /f472b41c-9d95-4acb-9a5f-d00b2f7efce2.
+Updated RV1 fields.
+Updated RV1 sheetname to '/'.
+Updated RV1 sheetfile to 'dc dc buck boost converter.kicad_sch'.
+Updated RV1 footprint filters to 'Potentiometer*'.
+Connected RV1 pin 2 to Net-(D1-K).
+Connected RV1 pin 3 to Net-(D1-K).
+Connected RV1 pin 1 to Net-(VR1-FB).
+Updated RV1 unit metadata.
+Updated C1 sheetname to '/'.
+Added VR1 (footprint 'XL6009:DPAK170P1435X465-6N').
+Changed REF** reference designator to VR1.
+Changed VR1 value from DPAK170P1435X465-6N to XL6009.
+Updated VR1 symbol association from  to /1ec6e218-90fe-4c46-a172-baa0ab7eae06.
+Updated VR1 fields.
+Updated VR1 sheetname to '/'.
+Updated VR1 sheetfile to 'dc dc buck boost converter.kicad_sch'.
+Connected VR1 pin 5 to Net-(VR1-FB).
+Connected VR1 pin 3 to Net-(D1-A).
+Connected VR1 pin 4 to Net-(J1-Pin_1).
+Add net unconnected-(VR1-EN-Pad2).
+Connected VR1 pin 2 to unconnected-(VR1-EN-Pad2).
+Connected VR1 pin 6 to Net-(D1-A).
+Connected VR1 pin 1 to GND.
+Updated VR1 unit metadata.
+
+
+Info: Total warnings: 0, errors: 0.
