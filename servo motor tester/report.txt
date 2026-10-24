@@ -1,0 +1,141 @@
+Info: Processing symbol '100K1:Potentiometer_THT:Potentiometer_Alps_RK163_Single_Horizontal'.
+Info: Processing symbol 'D2:LED_THT:LED_D3.0mm'.
+Info: Processing symbol 'D1:Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal'.
+Info: Processing symbol 'J1:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'J2:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical'.
+Info: Processing symbol 'C1:Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm'.
+Info: Processing symbol 'R1:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R2:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R3:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'U1:Package_DIP:DIP-8_W7.62mm'.
+Updated 100K1 fields.
+Updated 100K1 sheetname to '/'.
+Updated 100K1 sheetfile to 'servo motor tester.kicad_sch'.
+Updated 100K1 footprint filters to 'Potentiometer*'.
+Add net Net-(100K1-Pad1).
+Connected 100K1 pin 1 to Net-(100K1-Pad1).
+Add net Net-(D1-A).
+Connected 100K1 pin 3 to Net-(D1-A).
+Connected 100K1 pin 2 to Net-(D1-A).
+Updated 100K1 unit metadata.
+Added C1 (footprint 'Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm').
+Changed REF** reference designator to C1.
+Changed C1 value from C_Disc_D4.7mm_W2.5mm_P5.00mm to 22uF.
+Updated C1 symbol association from  to /7a16966c-8b4a-417a-bcc1-b9ca9aa4a82a.
+Updated C1 fields.
+Updated C1 sheetname to '/'.
+Updated C1 sheetfile to 'servo motor tester.kicad_sch'.
+Updated C1 footprint filters to 'C_*'.
+Add net Net-(D2-K).
+Connected C1 pin 2 to Net-(D2-K).
+Add net Net-(D1-K).
+Connected C1 pin 1 to Net-(D1-K).
+Updated C1 unit metadata.
+Added D1 (footprint 'Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal').
+Changed REF** reference designator to D1.
+Changed D1 value from D_DO-35_SOD27_P7.62mm_Horizontal to 1n4148.
+Updated D1 symbol association from  to /bdde354b-ca0b-4d0d-921c-90d5d29a54f0.
+Updated D1 fields.
+Updated D1 sheetname to '/'.
+Updated D1 sheetfile to 'servo motor tester.kicad_sch'.
+Updated D1 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connected D1 pin 2 to Net-(D1-A).
+Connected D1 pin 1 to Net-(D1-K).
+Updated D1 unit metadata.
+Added D2 (footprint 'LED_THT:LED_D3.0mm').
+Changed REF** reference designator to D2.
+Changed D2 value from LED_D3.0mm to LED.
+Updated D2 symbol association from  to /f0b66256-fd74-47e1-a6ee-655ef3630a7d.
+Updated D2 fields.
+Updated D2 sheetname to '/'.
+Updated D2 sheetfile to 'servo motor tester.kicad_sch'.
+Updated D2 footprint filters to 'LED* LED_SMD:* LED_THT:*'.
+Add net Net-(D2-A).
+Connected D2 pin 2 to Net-(D2-A).
+Connected D2 pin 1 to Net-(D2-K).
+Updated D2 unit metadata.
+Added J1 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical').
+Changed REF** reference designator to J1.
+Changed J1 value from PinHeader_1x02_P2.54mm_Vertical to Conn_01x02_Pin.
+Updated J1 symbol association from  to /8acad16c-0848-45b7-a13b-d5483b1f9288.
+Updated J1 fields.
+Updated J1 sheetname to '/'.
+Updated J1 sheetfile to 'servo motor tester.kicad_sch'.
+Updated J1 footprint filters to 'Connector*:*_1x??_*'.
+Connected J1 pin 2 to Net-(D2-K).
+Add net Net-(J1-Pin_1).
+Connected J1 pin 1 to Net-(J1-Pin_1).
+Updated J1 unit metadata.
+Added J2 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical').
+Changed REF** reference designator to J2.
+Changed J2 value from PinHeader_1x03_P2.54mm_Vertical to Conn_01x03_Pin.
+Updated J2 symbol association from  to /1e37e3d9-8291-4b99-8984-49ed4dd35620.
+Updated J2 fields.
+Updated J2 sheetname to '/'.
+Updated J2 sheetfile to 'servo motor tester.kicad_sch'.
+Updated J2 footprint filters to 'Connector*:*_1x??_*'.
+Add net Net-(J2-Pin_2).
+Connected J2 pin 2 to Net-(J2-Pin_2).
+Connected J2 pin 1 to Net-(D2-K).
+Add net Net-(J2-Pin_3).
+Connected J2 pin 3 to Net-(J2-Pin_3).
+Updated J2 unit metadata.
+Added 100K1 (footprint 'Potentiometer_THT:Potentiometer_Alps_RK163_Single_Horizontal').
+Added R1 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Changed REF** reference designator to R1.
+Changed R1 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal to 3M.
+Updated R1 symbol association from  to /cf63eec4-b301-43c9-8bce-b1eb5741a56a.
+Updated R1 fields.
+Updated R1 sheetname to '/'.
+Updated R1 sheetfile to 'servo motor tester.kicad_sch'.
+Updated R1 footprint filters to 'R_*'.
+Connected R1 pin 1 to Net-(D1-A).
+Connected R1 pin 2 to Net-(D1-K).
+Updated R1 unit metadata.
+Changed REF** reference designator to 100K1.
+Added R2 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Changed REF** reference designator to R2.
+Changed R2 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal to 1k.
+Updated R2 symbol association from  to /a8a08ad7-affe-4f16-98d8-aee3ce6ec7bc.
+Updated R2 fields.
+Updated R2 sheetname to '/'.
+Updated R2 sheetfile to 'servo motor tester.kicad_sch'.
+Updated R2 footprint filters to 'R_*'.
+Connected R2 pin 1 to Net-(J1-Pin_1).
+Connected R2 pin 2 to Net-(D2-A).
+Updated R2 unit metadata.
+Changed 100K1 value from Potentiometer_Alps_RK163_Single_Horizontal to R_Potentiometer.
+Added R3 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Changed REF** reference designator to R3.
+Changed R3 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal to 56K.
+Updated R3 symbol association from  to /8aabc85e-e74a-48fa-84e4-6ff4b2783009.
+Updated R3 fields.
+Updated R3 sheetname to '/'.
+Updated R3 sheetfile to 'servo motor tester.kicad_sch'.
+Updated R3 footprint filters to 'R_*'.
+Connected R3 pin 1 to Net-(100K1-Pad1).
+Connected R3 pin 2 to Net-(J2-Pin_2).
+Updated R3 unit metadata.
+Updated 100K1 symbol association from  to /bec1d0cd-33f7-4eb2-865a-c862c87a7b20.
+Added U1 (footprint 'Package_DIP:DIP-8_W7.62mm').
+Changed REF** reference designator to U1.
+Changed U1 value from DIP-8_W7.62mm to NE555P.
+Updated U1 symbol association from  to /d2fa43d9-3239-44a7-823d-942c90851020.
+Updated U1 fields.
+Updated U1 sheetname to '/'.
+Updated U1 sheetfile to 'servo motor tester.kicad_sch'.
+Updated U1 footprint filters to 'DIP*W7.62mm*'.
+Connected U1 pin 1 to Net-(D2-K).
+Add net unconnected-(U1-~{RST}-Pad4).
+Connected U1 pin 4 to unconnected-(U1-~{RST}-Pad4).
+Connected U1 pin 8 to Net-(J1-Pin_1).
+Connected U1 pin 6 to Net-(D1-K).
+Connected U1 pin 3 to Net-(J2-Pin_3).
+Add net unconnected-(U1-CONT-Pad5).
+Connected U1 pin 5 to unconnected-(U1-CONT-Pad5).
+Connected U1 pin 7 to Net-(D1-A).
+Connected U1 pin 2 to Net-(D1-K).
+Updated U1 unit metadata.
+
+
+Info: Total warnings: 0, errors: 0.
