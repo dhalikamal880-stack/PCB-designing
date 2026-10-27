@@ -3,32 +3,23 @@ Info: Processing symbol 'D1:Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal'.
 Info: Processing symbol 'D2:Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal'.
 Info: Processing symbol 'D3:Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal'.
 Info: Processing symbol 'D4:Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal'.
-Info: Processing symbol 'GREEN1:LED_THT:LED_D3.0mm'.
+Info: Processing symbol 'GREEN1:LED_THT:LED_D3.0mm_Clear'.
 Info: Processing symbol 'J1:Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical'.
 Info: Processing symbol 'J2:Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical'.
 Info: Processing symbol 'K1:Relay_THT:Relay_SPDT_Hongfa_JQC-3FF_0XX-1Z'.
 Info: Processing symbol 'R1:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
 Info: Processing symbol 'R2:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
 Info: Processing symbol 'RED1:LED_THT:LED_D3.0mm'.
-Info: Processing symbol 'RV1:Potentiometer_THT:Potentiometer_ACP_CA14V-15_Vertical'.
-Info: Processing symbol 'RV2:Potentiometer_THT:Potentiometer_ACP_CA14V-15_Vertical'.
+Info: Processing symbol 'RV1:Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical'.
+Info: Processing symbol 'RV2:Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical'.
 Info: Processing symbol 'U1:Package_TO_SOT_THT:TO-220-3_Vertical'.
-Change J1 footprint from 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm' to 'Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical'.
-Add J1 'Do not place' fabrication attribute.
-Change J2 footprint from 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm' to 'Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical'.
-Add J2 'Do not place' fabrication attribute.
-Warning: No net found for component J1 pad 8 (no pin 8 in symbol).
-Warning: No net found for component J1 pad 3 (no pin 3 in symbol).
-Warning: No net found for component J1 pad 7 (no pin 7 in symbol).
-Warning: No net found for component J1 pad 4 (no pin 4 in symbol).
-Warning: No net found for component J1 pad 5 (no pin 5 in symbol).
-Warning: No net found for component J1 pad 6 (no pin 6 in symbol).
-Warning: No net found for component J2 pad 5 (no pin 5 in symbol).
-Warning: No net found for component J2 pad 8 (no pin 8 in symbol).
-Warning: No net found for component J2 pad 7 (no pin 7 in symbol).
-Warning: No net found for component J2 pad 4 (no pin 4 in symbol).
-Warning: No net found for component J2 pad 3 (no pin 3 in symbol).
-Warning: No net found for component J2 pad 6 (no pin 6 in symbol).
+Changed GREEN1 footprint from 'LED_THT:LED_D3.0mm' to 'LED_THT:LED_D3.0mm_Clear'.
+Updated GREEN1 fields.
+Updated GREEN1 unit metadata.
+Changed B set reference designator to RV1.
+Changed offset reference designator to RV2.
+Warning: Copper zone on F.Cu at (88.5000 mm, 38.5000 mm) has no pads connected to net "".
+Warning: Copper zone on B.Cu at (88.5000 mm, 38.5000 mm) has no pads connected to net "".
 
 
-Info: Total warnings: 12, errors: 0.
+Info: Total warnings: 2, errors: 0.
